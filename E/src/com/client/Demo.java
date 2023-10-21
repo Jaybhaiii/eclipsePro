@@ -8,5 +8,7 @@ public class Demo {
 
 		System.out.println("Remote to Local Repository");
 		
+		System.out.println("Local To Remote Repository");
+		
 	}
 }
